@@ -1,3 +1,3 @@
 # demo
-This is my first git repository
-Author-EKansh Jain
+This is my first git repository.
+Author-Ekansh Jain
